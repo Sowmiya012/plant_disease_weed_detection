@@ -1,0 +1,5 @@
+streamlit
+torch
+tensorflow
+opencv-python
+yolov5
