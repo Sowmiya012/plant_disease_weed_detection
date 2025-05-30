@@ -1,0 +1,1 @@
+generator.save('models/gan_generator.h5')
