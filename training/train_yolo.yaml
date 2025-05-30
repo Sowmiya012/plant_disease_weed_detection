@@ -1,1 +1,8 @@
 # YOLOv5 training config placeholder
+# train_yolo.yaml
+path: ../data/weed_yolo  # dataset root dir
+train: images/train
+val: images/val
+
+nc: 1  # number of classes (e.g., 1 for "weed")
+names: ["weed"]
